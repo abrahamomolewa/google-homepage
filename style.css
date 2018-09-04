@@ -152,21 +152,62 @@ input[type=text]:hover{
   text-decoration: none;
   color: #666;
 }
+.ads{
+  padding-right: 7px;
+  padding-left: 8px;
+}
 .ads:hover{
   text-decoration: underline;
+}
+.business{
+  padding-left: 7px;
+  padding-right:7px;
 }
 .business:hover{
   text-decoration: underline;
 }
+.about{
+  padding-left: 7px;
+  padding-right:7px;
+}
 .about:hover{
   text-decoration: underline;
+}
+.Privacy{
+  padding-left: 7px;
+  padding-right:7px;
 }
 .Privacy:hover{
   text-decoration: underline;
 }
+.terms{
+  padding-left: 7px;
+  padding-right:7px;
+}
 .terms:hover{
   text-decoration: underline;
 }
+.settings{
+  padding-left: 7px;
+  padding-right:8px;
+}
 .settings:hover{
   text-decoration: underline;
+}
+.Nigeria{
+  background:#f2f2f2;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: 1px solid #e4e4e4;
+  position:absolute;
+  bottom: 0;
+  width: 100%;
+  line-height: 40px;
+  display: block;
+  font-family: arial, sans-serif;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+.nigeria{
+  color: #666;
+  padding-left: 15px;
 }
